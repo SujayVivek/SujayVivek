@@ -1,11 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sujay</h1>
-<h3 align="center">A passionate human</h3>
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Sujay,+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+</div>
 
-- ⚡ <h6>You can either find me on here....... or at the gym.</h6>
+<div style="display:flex">
+- <h1 align="center">Hi 👋, I'm Sujay</h1>
+  
+- I am an aspiring Full Stack Developer
+
+- I am currently a second year undergraduate student pursuing Electrical Engineering at IIT Kharagpur.
+
+- I am currently learning **Backend** and other full-stack tools.
+
+- Open source enthusiast
+
+</div>
+
+---
+- ⚡ You can either find me on here....... or at the gym.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujayvivek&label=Profile%20views&color=0e75b6&style=flat" alt="sujayvivek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayvivek" alt="sujayvivek" /></a> </p>
+
 
 - 🔭 I’m currently working on building the perfect portfolio (Attempt #31)
 
@@ -38,6 +53,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujayvivek&show_icons=true&locale=en" alt="sujayvivek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujayvivek&" alt="sujayvivek" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayvivek" alt="sujayvivek" /></a> </p>
 
 <!--
 **SujayVivek/SujayVivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
