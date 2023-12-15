@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning Backend Development
 
-- 🤝 I'm kooking for help with mastering the art of adulting. Investing, laundry folding, and general life hacks. SOS!
+- 🤝 I'm looking for help with mastering the art of adulting. Investing, laundry folding, and general life hacks. SOS!
 
 - 💬 Ask me about my secret recipe for a perfectly seasoned codebase
 
