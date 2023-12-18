@@ -5,13 +5,13 @@
 <div style="display:flex">
 - <h1 align="center">Hi 👋, I'm Sujay</h1>
   
-- I am a Full Stack Developer
+- I am a Full Stack Developer.
 
 - I am currently a second year undergraduate student pursuing Electrical Engineering at IIT Kharagpur.
 
 - I am currently learning **Backend** and other full-stack tools.
 
-- Open source enthusiast
+- Open source enthusiast.
 
 </div>
 
