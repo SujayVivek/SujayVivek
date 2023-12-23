@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on building the perfect portfolio (Attempt #31)
+- 🔭 I’m currently working on building the **perfect** portfolio (Attempt #31)
 
 - 🌱 I’m currently learning Backend Development
 
