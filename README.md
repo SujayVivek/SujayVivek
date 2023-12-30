@@ -15,7 +15,7 @@
 
 </div>
 
--  <h3> ⚡You can either find me on here....... or at the gym.</h3>
+-  <h3> ⚡You can either find me on here...... or at the gym.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujayvivek&label=Profile%20views&color=0e75b6&style=flat" alt="sujayvivek" /> </p>
 
