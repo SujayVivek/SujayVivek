@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on building the **perfect** portfolio (Attempt #33)
 
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Backend Development.
 
 - 🤝 I'm looking for help with mastering the art of adulting. Investing, laundry folding, and general life hacks. SOS!
 
