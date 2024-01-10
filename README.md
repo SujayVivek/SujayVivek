@@ -11,7 +11,7 @@
 
 - I'm currently learning **Backend** and other full-stack tools.
 
-- Open source enthusiast.
+- Open source enthusiast
 
 </div>
 
