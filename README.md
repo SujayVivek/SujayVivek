@@ -27,7 +27,7 @@
 
 - 🤝 I'm looking for help with mastering the art of adulting. Investing, laundry folding, and general life hacks. SOS!
 
-- 💬 Ask me about my secret recipe for a perfectly seasoned codebase
+- 💬 Ask me about my secret recipe for a perfectly seasoned codebase.
 
 - I need companions to forge ahead and conquer the realm of innovative apps and tech wonders.
   📫 If you are up for it, then you can reach out to me here: <a>sujayv2016@gmail.com</a> 🤝
