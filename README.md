@@ -3,7 +3,7 @@
 </div>
 
 <div style="display:flex">
-- <h1 align="center">Hii!! 👋 , I'm Sujay</h1>
+- <h1 align="center">Hii!! 👋, I'm Sujay</h1>
   
 - I am a **Full** Stack Developer!!!
 
