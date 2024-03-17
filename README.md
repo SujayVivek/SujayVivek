@@ -7,7 +7,7 @@
   
 - I am an aspiring **Full** Stack Developer!!!
 
-- I am currently a second year undergraduate student pursuing Electrical Engineering at IIT Kharagpur..
+- I am currently a second year undergraduate student pursuing Electrical Engineering at IIT Kharagpur.
 
 - I'm currently learning **Backend** and other full-stack tools...
 
