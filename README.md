@@ -9,7 +9,7 @@
 
 - I am currently a second year undergraduate student pursuing Electrical Engineering at IIT Kharagpur.
 
-- I'm currently learning **Backend** and other full-stack tools..
+- I'm currently learning **Backend** and other full-stack tools...
 
 - Open source enthusiast
 
